@@ -1,5 +1,3 @@
-# Brain-inspired-PNT-and-Traditional-PNT
-
 Highlights for our paper "A Preliminary Exploration of the Differences and Conjunction of Traditional PNT and Brain-inspired PNT" submitted to Neuromorphic Computing and Engineering (NCE).
 
 Coming soon...
